@@ -18,5 +18,16 @@ Altenatively, the backend can be deployed on heroku and next.js on vercel and in
 <li>NextAuth</li>
 <li>React</li>
 <li>axios</li>
+<li>VS Code </li>
 </ul>
 AWS Elastic Beanstalk, EC2 & RDS, Localhost or Heroku for deployment
+
+<h3> How to Get Started <h3>
+<h5>clone this repository into your local machine</h5>
+<h5>cd my-to-do-list</h5>
+<h5> run application in the sr src/main folder</h5>
+<h5>open another terminal </h5>
+<h5>cd mytodoclientside and npm install</h5>
+<h5>run the next.js development server after node modules installation: npm run dev</h5>
+<h5>view todo app in your browser: localhost:3000</h5>
+Done!
