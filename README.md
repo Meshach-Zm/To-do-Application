@@ -30,4 +30,4 @@ AWS Elastic Beanstalk, EC2 & RDS, Localhost or Heroku for deployment
 <h5>cd mytodoclientside and npm install</h5>
 <h5>run the next.js development server after node modules installation: npm run dev</h5>
 <h5>view todo app in your browser: localhost:3000</h5>
-Done!
+
